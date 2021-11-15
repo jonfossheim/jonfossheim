@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World 👋
+
+I'm a lecturer at Noroff and Co-Founder of Gameflow.
 
 <img
   align="center"
